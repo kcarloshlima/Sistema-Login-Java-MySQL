@@ -1,0 +1,36 @@
+# NetBeans / Ant
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+nbactions.xml
+.nb-gradle/
+
+# Arquivos compilados
+*.class
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outras IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Configurações locais com credenciais
+*.env
+config.properties
